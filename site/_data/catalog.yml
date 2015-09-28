@@ -1,0 +1,69 @@
+- group: Atomic
+  components:
+    - name: Button
+      path: button
+
+    - name: Menu
+      path: menu
+
+    - name: Radio Button
+      path: radio-button
+
+    - name: Check Box
+      path: check-box
+
+    - name: String Input
+      path: string-input
+
+    - name: Date & Time
+      path: date-and-time
+
+    - name: Slider
+      path: slider
+
+- group: Structured
+  components:
+    - name: List
+      path: list
+
+    - name: Search
+      path: search
+
+    - name: Table
+      path: table
+
+    - name: Tree
+      path: tree
+
+- group: Behavior
+  components:
+    - name: Drag & Drop
+      path: drag-and-drop
+
+    - name: Selecting
+      path: selecting
+
+    - name: Scrolling
+      path: scrolling
+
+- group: Composite
+  components:
+    - name: View Switcher
+      path: view-switcher
+
+    - name: Split View
+      path: split-view
+
+- group: Environment
+  components:
+    - name: Login
+      path: login
+
+    - name: Task Launcher
+      path: task-launcher
+
+    - name: Task Switcher
+      path: task-switcher
+
+    - name: Window
+      path: window
